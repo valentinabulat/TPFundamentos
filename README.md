@@ -1,5 +1,7 @@
 # Práctico Especial -  Fundamentos de la Ciencia de Datos
 
+![Grupo 10](https://img.shields.io/badge/Grupo_10-🌲-FFBC80?style=for-the-badge&labelColor=FFE3C8)
+
 ## Descripción del proyecto
 
 Este repositorio contiene el Trabajo Práctico Especial de la materia Fundamentos de la Ciencia de Datos - Cursada 2025, 
@@ -12,7 +14,7 @@ Incluye:
 - Desarrollo de visualizaciones y conclusiones finales.
 
 ## Requisitos
-- Python 3.13.7
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python)
 - Jupyter Notebook o JupyterLab
 ## Instrucciones de ejecución
 **Paso 1:** Clonar el repositorio
@@ -46,5 +48,5 @@ Incluye:
   ```python
   pip install -r requirements.txt
    ```
-**Paso 5:** Abrir el anrchivo y ejecutarlo :)
+**Paso 5:** Abrí el archivo `.ipynb` y ejecutarlo :)
 
