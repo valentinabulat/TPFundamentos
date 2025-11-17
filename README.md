@@ -48,9 +48,5 @@ Incluye:
   ```python
   pip install -r requirements.txt
    ```
-<<<<<<< HEAD
-**Paso 5:** Abrir el archivo y ejecutarlo :)
-=======
 **Paso 5:** Abrí el archivo `.ipynb` y ejecutarlo :)
->>>>>>> f05e75e618d9a06117623dceb541142f1b370840
 
