@@ -46,5 +46,5 @@ Incluye:
   ```python
   pip install -r requirements.txt
    ```
-**Paso 5:** Abrir el anrchivo y ejecutarlo :)
+**Paso 5:** Abrir el archivo y ejecutarlo :)
 
